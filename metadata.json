@@ -1,0 +1,5 @@
+{
+  "name": "Medieval TRPG Master",
+  "description": "A fully interactive, AI-powered Tabletop RPG application with a medieval aesthetic. Features character management, real-time AI Dungeon Master interaction, and script management.",
+  "requestFramePermissions": []
+}
