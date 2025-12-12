@@ -95,7 +95,7 @@ export const generateGMResponse = async (
   character: Character,
   settings: GameSettings
 ) => {
-  const model = "Qwen/QwQ-32B"; 
+  const model = "gemini-2.5-flash"; 
   
   // Format equipment for context
   const equipmentList = Object.entries(character.equipment)
